@@ -41,7 +41,7 @@ class FxView(
     private var finished = false
     private val pi = Math.PI.toFloat()
 
-    private val colors = intArrayOf(
+    private val colors = arrayOf(
         "#BC82F3", "#F5B9EA", "#8D9FFF", "#AA6EEE", "#FF6778", "#FFBA71", "#C686FF", "#BC82F3"
     ).map { Color.parseColor(it) }.toIntArray()
 
