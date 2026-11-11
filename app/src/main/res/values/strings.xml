@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GlowShot</string>
+    <string name="a11y_desc">Used only to take a screenshot and draw the screenshot animation when you trigger it with the assistant (power button). It does not read or store screen content.</string>
+</resources>

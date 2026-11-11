@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<voice-interaction-service xmlns:android="http://schemas.android.com/apk/res/android"
+    android:sessionService="com.glowshot.app.GlowSessionService"
+    android:recognitionService="com.glowshot.app.StubRecognitionService"
+    android:settingsActivity="com.glowshot.app.MainActivity"
+    android:supportsAssist="true"
+    android:supportsLaunchVoiceAssistFromKeyguard="true" />
